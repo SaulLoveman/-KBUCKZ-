@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x53379aac21de1bf6a74c851927385cde27078849",
+  "SCAN_LINK": "https://www.etherscan.io/address/0x53379aac21de1bf6a74c851927385cde27078849",
+  "NETWORK": {
+    "NAME": "ethereum",
+    "SYMBOL": "eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Kevin Buckz by The Meme Factory",
+  "SYMBOL": "KBUCKZ",
+  "MAX_SUPPLY": 1069,
+  "WEI_COST": 11000000000000000,
+  "DISPLAY_COST": 0.011,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://www.opensea.io/collection/kevin-buckz-by-the-meme-factory",
+  "SHOW_BACKGROUND": true
+}
